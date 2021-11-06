@@ -59,9 +59,3 @@
 ![oracle](https://img.shields.io/badge/-oracle-000000?style=flat&logo=oracle&logoColor=ffffff&labelColor=7C5235)
 ![sqlserver](https://img.shields.io/badge/-sqlserver-000000?style=flat&logo=sqlserver&logoColor=ffffff&labelColor=000)
 
-
-<hr>
-<p align="center"> 
-<img src="https://svgshare.com/getbyhash/sha1-LHiWlhFDwXbNWTl0arAFCT37jkY=">
- </p>
-
