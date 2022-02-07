@@ -3,11 +3,6 @@
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
 </p>
 
-<p align="center"> 
- سەردانکەران<br><br>
-  <img src="https://profile-counter.glitch.me/codenashwan/count.svg" />
-</p>
-
 <div align="center"> 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=codenashwan)](https://github.com/ryo-ma/github-profile-trophy)
