@@ -1,6 +1,6 @@
 
 <p align="center"> 
-  <img src="https://s3.buckets.icons8.com/icons8-ouch-prod-assets/svg/477/e2130db6-c561-4330-8060-af74745f790b.svg?response-content-disposition=attachment%3B%20filename%3Dpixeltrue-web-development.svg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=syncher%2F20220417%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220417T224002Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8aee1ba96c7e1b554ffccdc044ef337290e87096167323e096b3dccab06a1aec" width="500" />
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500" />
 </p>
 
 <div align="center"> 
