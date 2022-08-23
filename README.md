@@ -5,7 +5,7 @@
 
 - 🎬 My tutorials on YouTube [Rstacode](https://www.youtube.com/rstacode)
 
-- 🤝 If you want to a Website or Application, Contact me [Whatsapp](https://wa.me/qr/QK2QEGGSMEXTM1)
+- 🤝 If you want to a Website or Application, Contact me [Whatsapp](https://wa.me/+9647704695176/?text=urlencodedtext)
 
 - 👨‍💻 All of my projects are available at [https://cvdesignr.com/p/5ef3038d9eb86](https://cvdesignr.com/p/5ef3038d9eb86)
 
