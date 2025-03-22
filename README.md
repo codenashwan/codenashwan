@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **codenashwan@gmail.com**
 
-- ⚡ Fun fact **I like tea ☕**
+- ⚡ Fun fact **I like Juice Drink 🧃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/codenashwan" target="blank"><img align="center" src="https://i.imgur.com/RBD1Eqq.png" alt="nashwan abdullah facebook" width="50" /></a>
-<a href="https://youtube.com/rstacode" target="blank"><img align="center" src="https://i.imgur.com/jEbLpsK.png" alt="Rstacode Youtube" width="50" /></a>
-<a href="https://wa.me/9647704695176" target="blank"><img align="center" src="https://i.imgur.com/AuFOjOY.png" alt="Whatsapp Nashwan Abdullah" width="50" /></a>
-<a href="https://www.linkedin.com/in/codenashwan/" target="blank"><img align="center" src="https://i.imgur.com/DYGghRP.png" alt="Linked in Nashwan Abdullah" width="50" /></a>
-<a href="https://t.me/codenashwan" target="blank"><img align="center" src="https://i.imgur.com/MosHYoT.png" alt="Telegram Nashwan Abdullah" width="50" /></a>
+<a href="https://fb.com/codenashwan" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="nashwan abdullah facebook" width="30" /></a>
+<a href="https://youtube.com/rstacode" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" alt="Rstacode Youtube" width="30" /></a>
+<a href="https://wa.me/9647704695176" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" alt="Whatsapp Nashwan Abdullah" width="30" /></a>
+<a href="https://www.linkedin.com/in/codenashwan/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="Linked in Nashwan Abdullah" width="30" /></a>
+<a href="https://t.me/codenashwan" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" alt="Telegram Nashwan Abdullah" width="30" /></a>
 </p>
